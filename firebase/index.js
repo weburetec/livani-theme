@@ -4,13 +4,14 @@ import 'firebase/firestore';
 
 // Need to update below config
 const config = {
-    apiKey: "api_key",
-    authDomain: "example_id.firebaseapp.com",
+    apiKey: "AIzaSyChdcToqcw5I1ZeSLCP-h4pOKVCCIQxZSI",
+    authDomain: "hkgadgets-22d07.firebaseapp.com",
     databaseURL: "database-url.firebaseio.com",
-    projectId: "project-id",
-    storageBucket: "bucket-id.appspot.com",
-    messagingSenderId: "321313132",
-    appId: "12313131313323"
+    projectId: "hkgadgets-22d07",
+    storageBucket: "hkgadgets-22d07.appspot.com",
+    messagingSenderId: "1031251462277",
+    appId: "1:1031251462277:web:39f3d0458ff6ece9ac81ec"
+    measurementId: "G-Z07MNTZT5T"
 };
 if (!firebase.apps.length) {
     firebase.initializeApp(config);
