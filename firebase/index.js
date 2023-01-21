@@ -10,7 +10,7 @@ const config = {
     projectId: "hkgadgets-22d07",
     storageBucket: "hkgadgets-22d07.appspot.com",
     messagingSenderId: "1031251462277",
-    appId: "1:1031251462277:web:39f3d0458ff6ece9ac81ec"
+    appId: "1:1031251462277:web:39f3d0458ff6ece9ac81ec",
     measurementId: "G-Z07MNTZT5T"
 };
 if (!firebase.apps.length) {
