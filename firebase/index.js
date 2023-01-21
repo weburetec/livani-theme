@@ -6,7 +6,7 @@ import 'firebase/firestore';
 const config = {
     apiKey: "AIzaSyChdcToqcw5I1ZeSLCP-h4pOKVCCIQxZSI",
     authDomain: "hkgadgets-22d07.firebaseapp.com",
-    databaseURL: "database-url.firebaseio.com",
+    databaseURL: "hkgadgets-22d07-default-rtdb.firebaseio.com/",
     projectId: "hkgadgets-22d07",
     storageBucket: "hkgadgets-22d07.appspot.com",
     messagingSenderId: "1031251462277",
