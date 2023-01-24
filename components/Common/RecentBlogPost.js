@@ -8,7 +8,7 @@ class RecentBlogPost extends Component {
                 <div className="container">
                     <div className="section-title">
                         <span className="sub-title">Recent Story</span>
-                        <h2>From The Livani Blog</h2>
+                        <h2>From The Blog</h2>
                     </div>
 
                     <div className="row">
