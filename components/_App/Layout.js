@@ -12,12 +12,12 @@ const Layout = ({children}) => {
     return(
         <React.Fragment>
             <Head>
-                <title>Livani - React Next eCommerce Template</title>
-                <meta name="description" content="Livani - React Next eCommerce Template. This has been built with React, Next.js, Express.js, and ES6+" />
-                <meta name="og:title" property="og:title" content="Livani - React Next eCommerce Template"></meta>
-                <meta name="twitter:card" content="Livani - React Next eCommerce Template"></meta>
-                <link rel="canonical" href="https://livani-react.envytheme.com/"></link>
-                <meta property="og:image" content="https://demaxin.s3.ap-south-1.amazonaws.com/cd19-2-1589216093113.jpg" />
+                <title>HK Gadgets - One Stopp Shoppe</title>
+                <meta name="description" content="HK Gadgets - One Stopp Shoppe" />
+                <meta name="og:title" property="og:title" content="HK Gadgets - One Stopp Shoppe"></meta>
+                <meta name="twitter:card" content="HK Gadgets - One Stopp Shoppe"></meta>
+                <link rel="canonical" href="https://www.hkgadgets.com/"></link>
+                <meta property="og:image" content="https://scontent.flko4-1.fna.fbcdn.net/v/t39.30808-6/324929441_634383168687421_972015060598931467_n.jpg?stp=dst-jpg_s960x960&_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=faRxFizmqqMAX8069bw&_nc_ht=scontent.flko4-1.fna&oh=00_AfDumpUg2xB1SdJ1Bp_sx0bnBk_MqHzCIG6_yrGJmrhGVA&oe=63D3CB2B" />
             </Head>
             {loader ? 'Loading' : children}
             <GoTop scrollStepInPx="100" delayInMs="10.50" />
