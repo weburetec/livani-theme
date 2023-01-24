@@ -31,7 +31,7 @@ class TopHeader extends Component {
                         <div className="row align-items-center">
                             <div className="col-lg-6 col-md-12">
                                 <ul className="header-contact-info">
-                                    <li>Welcome to Livani</li>
+                                    <li>Welcome to HK Gadgets</li>
                                     <li>Call: +1-541-754-3010</li>
 
                                     <li>
