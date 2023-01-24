@@ -18,7 +18,7 @@ class Footer extends Component {
                                     <ul className="footer-contact-info">
                                         <li>
                                             <i className='bx bx-map'></i> 
-                                            Wonder Street, USA, New York
+                                            HK Gadgets India, Chennai, India
                                         </li>
                                         <li>
                                             <i className='bx bx-phone-call'></i> 
@@ -26,7 +26,7 @@ class Footer extends Component {
                                         </li>
                                         <li>
                                             <i className='bx bx-envelope'></i> 
-                                            hello@livani.com
+                                            contact@hkgadgets.com
                                         </li>
                                     </ul>
                                 </div>
@@ -170,7 +170,7 @@ class Footer extends Component {
                         <div className="row align-items-center">
                             <div className="col-lg-6 col-md-6">
                                 <p>
-                                    Copyright <i className='bx bx-copyright'></i>{currentYear} HKGadgets Designed By <a href="https://weburetech.com/" target="_blank">Webure Technologies</a> - All rights reserved.
+                                    Copyright <i className='bx bx-copyright'></i>{currentYear} HKGadgets Designed By <a href="https://weburetech.com/" target="_blank">Webure Technologies</a>
                                 </p>
                             </div>
 
